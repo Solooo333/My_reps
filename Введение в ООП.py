@@ -95,3 +95,4 @@ class User:  # Класс
 
 lancelot = User()  # присваивание переменной Класса
 print(lancelot.number_of_fingers)  # вывод переменной с атрибутом Класса
+print()
